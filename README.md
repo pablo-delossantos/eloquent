@@ -1,2 +1,3 @@
-# javascript-coder
-Archivos del curso de JavaScript de Coderhouse
+# Eloquent Javascript
+
+Archivos de práctica del libro Eloquent JavasCript de Marijn Haverbeke.
